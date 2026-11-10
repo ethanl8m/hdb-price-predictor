@@ -1,0 +1,6 @@
+{
+  "name": "SG HDB Price Trends & ML Forecaster (2006-2026)",
+  "description": "Explore 20-year Singapore HDB resale price trends by town and postal code with machine learning forecasting (XGBoost, Random Forest, Neural Networks) and backtesting validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
